@@ -1,5 +1,6 @@
 # VIDEO EDIT MANUAL @mmu_badasemi
 ![CUTIE STRRET](https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg)
+[![Video Label](https://img.youtube.com/vi/WB9EpqF08Yg/maxresdefault.jpg)](https://www.youtube.com/watch?v=WB9EpqF08Yg)
 > **Ver 250731.01**
 
 > **Made by WOOJIN(우진,うじん)**
