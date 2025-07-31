@@ -1,6 +1,7 @@
 # VIDEO EDIT MANUAL @mmu_badasemi
-[![Video Label](https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg)](https://www.youtube.com/watch?v=zhcLLEPhkww)
-> **Ver 250731.01**
+<a href="https://www.youtube.com/watch?v=J0r_tFWNSJo&list=RDJ0r_tFWNSJo&start_radio=1"><img src="https://i.scdn.co/image/ab67616d0000b2737ee9a7be272fba146de93896" width="500" height="500" /></a><a href="https://www.youtube.com/watch?v=MLpmiywRNzY&t=349s"><img src="https://static.wikitide.net/italianbrainrotwiki/thumb/e/e0/Tralalelo_tralala.png/899px-Tralalelo_tralala.png?20250718174343" width="500" height="500" /></a>
+<a href="https://www.youtube.com/watch?v=zhcLLEPhkww"><img src="https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg" width="1000" height="750" ></a>
+> **Ver 250731.01** 
 
 > **Made by WOOJIN(우진,うじん)**
 
@@ -36,7 +37,7 @@ Before making video, You have to define `Video's resolution`, `Frame per second(
 
 # 02. Clips
 Clips include main subtitles, main video, main image.
-Non-important clips should be less than 5 secs!
+Non-important clips should be less than 5 secs! **_(*tip: Cut out silent scenes or sections you don't need)_**
 
 **_Keyframe preset_**
 - `3 secs or less:`
@@ -78,24 +79,36 @@ When you add short memes like 'Tralalero tralala', You don't need to add these e
 | --- | --- |
 | KR |Black Han Sans, BM JUA, CookieRun, 넥슨 메이플스토리, DNF BitBit, NEO 둥근모, One Mobile Pop, SandBox 어그로, TMON 몬소리 Black|
 | JP |DokiDoki font|
-***
 
 **_Subtitle Design_**
 
 ![image](https://github.com/AHMUMAL/mmu_badasemi/blob/main/assets/Subtitle%20Design.png)
 
-**_`text`_**
+**_`text`_** 
 
-**_`color`_**
+Select the font type (see reference) and adjust the size of the font size.
+Select font type (see above) and adjust font size according to mood.(60pt for 1080p, 120pt for 4K)
+You can also use highlighting effects such as bold or italic. 
+You can also change font alignment according to situations.
 
-**_`line`_**
+**_`color`_** 
+
+Change the color of the letter itself.
+
+**_`line`_** 
+
+Change the color of the edges of the letters. Adjust the thickness so that the colors of the letters are not covered!!
 
 **_`background`_**
 
-**_`shadow`_**
+As you can see in the picture, a box that appears behind the handwriting. Adjust the color, transparency, etc. according to the situation.
+
+**_`shadow`_** 
+
+creates a three-dimensional effect by giving a slight angle and distance. 
+It has various effects, such as placing it at the bottom to give a shading effect, or matching it with the border color to make the character shine.
 
 
-***
 
 ## 02-2. Sound/Visual Effect (SFX, VFX)
 
@@ -104,16 +117,20 @@ In general, it is an essential element for video editing,
 but you will think a lot about how to start at first, and how to get them.
 For those of you who are new to video editing, I am sharing the link to the FX organization drive I have collected since 2019.
 
+<a href="mailto:w0922j@gmail.com">이메일 보내기 링크</a>
+
+
 [GDrive (For only mmu_badasemi members)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
 
 [Green Screen memes](https://greenscreenmemes.com/)
 
 [Sound Effect Collection](https://www.myinstants.com/ko/index/kr/)
 
-
 [Sapporo Winter Fes 2025](https://www.youtube.com/watch?v=Wj6hhRcPN0c&list=RDWj6hhRcPN0c&start_radio=1)
-***
 
-***
+**_Transition_** 
+
+It's the conversion effect of a video clip. It makes the video very natural and smooth. From simply turning, blurring, or turning over the screen, to the movie effect, the lens effect, the cross effect, and so on.
+
 
 ***
