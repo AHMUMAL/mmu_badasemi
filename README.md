@@ -1,5 +1,5 @@
 # VIDEO EDIT MANUAL @mmu_badasemi
-[![Video Label](https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg)](https://www.youtube.com/watch?v=WB9EpqF08Yg)
+[![Video Label](https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg)](https://www.youtube.com/watch?v=zhcLLEPhkww)
 > **Ver 250731.01**
 
 > **Made by WOOJIN(우진,うじん)**
@@ -8,6 +8,7 @@
 Before making video, You have to define `Video's resolution`, `Frame per second(FPS)`, `Color Space`.
 
 ![image](https://github.com/AHMUMAL/mmu_badasemi/blob/main/asset/Sequence%20Set.png)
+
 **_`Video resolution🎬`_**
 - ♡ 3840x2160 4K UHD ♡: High resolution. required high device spec.
 - 2560x1440 2K QHD: mostly used for gaming videos.
@@ -81,10 +82,20 @@ When you add short memes like 'Tralalero tralala', You don't need to add these e
 
 **_Subtitle Design_**
 
+![image](https://github.com/AHMUMAL/mmu_badasemi/blob/main/assets/Subtitle%20Design.png)
+
+**_`text`_**
+
+**_`color`_**
+
+**_`line`_**
+
+**_`background`_**
+
+**_`shadow`_**
+
+
 ***
-
-
-
 
 ## 02-2. Sound/Visual Effect (SFX, VFX)
 
