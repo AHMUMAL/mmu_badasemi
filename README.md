@@ -1,15 +1,14 @@
 # VIDEO EDIT MANUAL @mmu_badasemi
-![CUTIE STRRET](https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg)
-[![Video Label](https://img.youtube.com/vi/WB9EpqF08Yg/maxresdefault.jpg)](https://www.youtube.com/watch?v=WB9EpqF08Yg)
+[![Video Label](https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg)](https://www.youtube.com/watch?v=WB9EpqF08Yg)
 > **Ver 250731.01**
 
 > **Made by WOOJIN(우진,うじん)**
 
 # 01. Setting
-Before making video, You have to define `video's resolution`, `Frame per second(FPS)`, `Color Space`.
+Before making video, You have to define `Video's resolution`, `Frame per second(FPS)`, `Color Space`.
 
+![image](https://github.com/AHMUMAL/mmu_badasemi/blob/main/asset/Sequence%20Set.png)
 **_`Video resolution🎬`_**
-
 - ♡ 3840x2160 4K UHD ♡: High resolution. required high device spec.
 - 2560x1440 2K QHD: mostly used for gaming videos.
 - 1920x1080 FHD: general resolution. but recently, trend is to use 4K.
@@ -56,7 +55,6 @@ When you add short memes like 'Tralalero tralala', You don't need to add these e
 - *When the length is divided into 10 equal parts, it is placed in the first compartment from the bottom.
 
 **_Recommended Font (KR,JP,EN)_**
-***
 - General subtitles (Gothic, Serif):
 
 | Country | Font |
@@ -88,11 +86,21 @@ When you add short memes like 'Tralalero tralala', You don't need to add these e
 
 
 
-## 02-2. Sound Effect
-TBD
+## 02-2. Sound/Visual Effect (SFX, VFX)
 
-피곤해 D질것 같다ㅏㅏㅏㅏㅏㅏㅏ🤯🤯🤯🤯🤯🤯🤯
-へとへとになったああああああ
+The `Sound/Visual effect (FX)` can be said to be very important not only increases the fun of videos but also leads viewers to focus. 
+In general, it is an essential element for video editing, 
+but you will think a lot about how to start at first, and how to get them.
+For those of you who are new to video editing, I am sharing the link to the FX organization drive I have collected since 2019.
+
+[GDrive (For only mmu_badasemi members)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
+
+[Green Screen memes](https://greenscreenmemes.com/)
+
+[Sound Effect Collection](https://www.myinstants.com/ko/index/kr/)
+
+
+[Sapporo Winter Fes 2025](https://www.youtube.com/watch?v=Wj6hhRcPN0c&list=RDWj6hhRcPN0c&start_radio=1)
 ***
 
 ***
