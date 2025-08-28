@@ -1,6 +1,6 @@
 # VIDEO EDIT MANUAL @mmu_badasemi
 <a href="https://www.youtube.com/watch?v=J0r_tFWNSJo&list=RDJ0r_tFWNSJo&start_radio=1"><img src="https://i.scdn.co/image/ab67616d0000b2737ee9a7be272fba146de93896" width="400" height="400" /></a><a href="https://www.youtube.com/watch?v=MLpmiywRNzY&t=3s"><img src="https://static.wikitide.net/italianbrainrotwiki/thumb/e/e0/Tralalelo_tralala.png/899px-Tralalelo_tralala.png?20250718174343" width="400" height="400" /></a>
-<a href="https://www.youtube.com/watch?v=zhcLLEPhkww"><img src="https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg" width="800" height="600" ></a>
+<a href="https://youtu.be/8PgzU-J7S5Y?si=7kx7wNObotUrHvNp"><img src="https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg" width="800" height="600" ></a>
 > **Ver 250828.01** 
 
 > **Made by WOOJIN(우진,うじん)**
