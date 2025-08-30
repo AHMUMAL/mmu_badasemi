@@ -137,14 +137,16 @@ Save the offset for the f/x value you set. Use when you want to add the same eff
 [import](https://www.youtube.com/watch?v=P9TBNyfx4kU)
 
 ## ~~00. Editor's Junk box~~
-<a href="https://youtu.be/Ux-iYj7pQr0?si=fsYmXBfjAz24eTNR"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgD2pudjK_PstOBSfPXXHP9ket-L3BAWizw&s" width="300" height="400" ></a>
-<a href="https://www.youtube.com/watch?v=YRidiwGaZHQ"><img src="https://image.news.livedoor.com/newsimage/stf/c/3/c36eb_1830_019fda44_62c58397.jpg" width="300" height="400" ></a>
-<a href="https://www.youtube.com/watch?v=eiIc7jOi-z0&list=RDeiIc7jOi-z0&start_radio=1"><img src="https://pbs.twimg.com/media/GTP9GBLbEAAYnOv?format=jpg&name=4096x4096" width="300" height="400" ></a>
-<a href="https://www.youtube.com/watch?v=ES2EMAUlspM"><img src="https://www.skydivecarolina.com/wp-content/uploads/2024/12/CFest18-09493-1200x1800-1.jpg" width="300" height="400" ></a>
-<a href="https://www.youtube.com/watch?v=13P0n2yyr9I"><img src="https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg" width="600" height="800" ></a>
-<a href="https://www.youtube.com/watch?v=5su-ansSwcE"><img src="https://3e-misaki.com/wp/wp-content/uploads/2021/07/tooth4_0.jpg" width="600" height="400" >/
-<a href="https://www.youtube.com/watch?v=J0r_tFWNSJo&list=RDJ0r_tFWNSJo&start_radio=1"><img src="https://i.scdn.co/image/ab67616d0000b2737ee9a7be272fba146de93896" width="300" height="300" /></a>
-<a href="https://www.youtube.com/watch?v=MLpmiywRNzY&t=3s"><img src="https://static.wikitide.net/italianbrainrotwiki/thumb/e/e0/Tralalelo_tralala.png/899px-Tralalelo_tralala.png?20250718174343" width="300" height="300" /></a>
-<a href="https://www.youtube.com/watch?v=H4dGpz6cnHo"><img src="https://i.ytimg.com/vi/H4dGpz6cnHo/sddefault.jpg" width="600" height="450" /></a>
+<a href="https://youtu.be/Ux-iYj7pQr0?si=fsYmXBfjAz24eTNR"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgD2pudjK_PstOBSfPXXHP9ket-L3BAWizw&s" width="300" height="400"></a>
+<a href="https://www.youtube.com/watch?v=YRidiwGaZHQ"><img src="https://image.news.livedoor.com/newsimage/stf/c/3/c36eb_1830_019fda44_62c58397.jpg" width="300" height="400"></a>
+<a href="https://www.youtube.com/watch?v=eiIc7jOi-z0&list=RDeiIc7jOi-z0&start_radio=1"><img src="https://pbs.twimg.com/media/GTP9GBLbEAAYnOv?format=jpg&name=4096x4096" width="300" height="400"></a>
+<a href="https://www.youtube.com/watch?v=ES2EMAUlspM"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paragliding_1350361.jpg/250px-Paragliding_1350361.jpg" width="300" height="400"></a>
+<a href="https://www.youtube.com/watch?v=UmmSM9y82EI&t=782s"><img src="https://www.titan-net.co.jp/wp-content/uploads/eaff8e050e72a5f1c1781a20b2aeec43.jpg" width="300" height="400"></a>
+<a href="https://www.youtube.com/watch?v=TR4QX8bz9Fw"><img src="https://miro.medium.com/v2/1*Gyg6Xx7eUfYXv1FDADrVLQ.jpeg" width="300" height="400"></a>
+<a href="https://www.youtube.com/watch?v=13P0n2yyr9I"><img src="https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg" width="600" height="800"></a>
+<a href="https://www.youtube.com/watch?v=5su-ansSwcE"><img src="https://3e-misaki.com/wp/wp-content/uploads/2021/07/tooth4_0.jpg" width="600" height="400">
+<a href="https://www.youtube.com/watch?v=J0r_tFWNSJo&list=RDJ0r_tFWNSJo&start_radio=1"><img src="https://i.scdn.co/image/ab67616d0000b2737ee9a7be272fba146de93896" width="300" height="300"/></a>
+<a href="https://www.youtube.com/watch?v=MLpmiywRNzY&t=3s"><img src="https://static.wikitide.net/italianbrainrotwiki/thumb/e/e0/Tralalelo_tralala.png/899px-Tralalelo_tralala.png?20250718174343" width="300" height="300"/></a>
+<a href="https://www.youtube.com/watch?v=H4dGpz6cnHo"><img src="https://i.ytimg.com/vi/H4dGpz6cnHo/sddefault.jpg" width="600" height="450"/></a>
 
 ***
