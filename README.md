@@ -1,9 +1,10 @@
 # VIDEO EDIT MANUAL @mmu_badasemi
-<a href="https://www.youtube.com/watch?v=J0r_tFWNSJo&list=RDJ0r_tFWNSJo&start_radio=1"><img src="https://i.scdn.co/image/ab67616d0000b2737ee9a7be272fba146de93896" width="400" height="400" /></a><a href="https://www.youtube.com/watch?v=MLpmiywRNzY&t=3s"><img src="https://static.wikitide.net/italianbrainrotwiki/thumb/e/e0/Tralalelo_tralala.png/899px-Tralalelo_tralala.png?20250718174343" width="400" height="400" /></a>
-<a href="https://youtu.be/8PgzU-J7S5Y?si=7kx7wNObotUrHvNp"><img src="https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg" width="800" height="600" ></a>
-> **Ver 250828.01** 
+<a href="https://www.youtube.com/watch?v=57j_HETJUHg"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773" width="800" height="600" ></a>
+> **Ver 250831.01** 
 
 > **Made by WOOJIN(우진,うじん)**
+> 
+> The recommendation setting is marked with a heart(♡).
 
 # 01. Setting
 Before making video, You have to define `Video's resolution`, `Frame per second(FPS)`, `Color Space`.
@@ -12,19 +13,19 @@ Before making video, You have to define `Video's resolution`, `Frame per second(
 
 **_`Video resolution🎬`_**
 - ♡ 3840x2160 4K UHD ♡: High resolution. required high device spec.
-- 2560x1440 2K QHD: mostly used for gaming videos.
-- 1920x1080 FHD: general resolution. but recently, trend is to use 4K.
+- 2560x1440 2K QHD: Mostly used for gaming videos.
+- 1920x1080 FHD: General resolution. but recently, trend is to use 4K.
 
 **_`Shorts resolution📱`_**
 - ☆1080x1920☆: Close to cell phone resolution. mostly use.
-- 2160x3840: mostly used for Fan Camera.
+- 2160x3840: Mostly used for Fan Camera.
 
 
 **_`FPS🎞`_**
-- 24: movie
-- 30: generally used.
-- ♥60♥: recommended. high quality, but more capacity.
-- 120: premature. Best quality, but unsupported on Platform
+- 24: Movie
+- 30: Generally used.
+- ♥60♥: Recommended. high quality, but more capacity.
+- 120: Premature. Best quality, but unsupported on Some platforms (Youtube,Instagram, etc..).
 
 
 **_`Color Space🖼`_**
@@ -36,27 +37,27 @@ Before making video, You have to define `Video's resolution`, `Frame per second(
 - (*🎨8bit can express 256^3 color but 10Bit can express 1024^3 color.)
 
 # 02. Clips
-Clips include main subtitles, main video, main image.
-Non-important clips should be less than 5 secs! **_(*tip: Cut out silent scenes or sections you don't need)_**
+Include main subtitles, main video, main image.
+Non-important clips should be less than 5 secs! 
 
-**_Keyframe preset_**
-- `3 secs or less:`
-0:00: Vis 0 / 0:45: Vis 100 / end-0:15 (ex: 2:45 ): Vis 100 / end (ex: 3:00): Vis 0
-
-- `Over 3 secs:`
-0:00: Vis 0 / 1:00 Vis 100 / end-0:30 (ex: 3:30 ): Vis 100 / end (ex: 4:00): Vis 0
-
-You can add other effect such as zooming, rotating, animating while vis(visibility) changes.
-If you template them, your work will be accelerate🔥🔥🔥
-When you add short memes like 'Tralalero tralala', You don't need to add these effect.
-
-## 02-1. Subtitles
-**_Recommand Subtitle Position_**
+## 02-1. Subtitles or Texts
+**_Recommand Subtitle Position_** - Based on x,y coordinates
 - 4K: 1920x1944
 - 1080p: 960x972
 - *When the length is divided into 10 equal parts, it is placed in the first compartment from the bottom.
 
-**_Recommended Font (KR,JP,EN)_**
+**_Subtitle Design_**
+
+<img src="https://github.com/AHMUMAL/mmu_badasemi/blob/main/assets/Subtitle%20Design.png" width="600" height="800" >
+
+**_`font✍️`_** 
+
+Select the font type (see reference) and adjust the size of the font size.
+Select font type (see above) and adjust font size according to mood.(60pt for 1080p, 120pt for 4K)
+You can also use highlighting effects such as bold or italic. 
+You can also change font alignment according to situations.
+
+## 02-1-1.**_Recommended Font (KR,JP,EN)_**
 - General subtitles (Gothic, Serif):
 
 | Country | Font |
@@ -80,18 +81,8 @@ When you add short memes like 'Tralalero tralala', You don't need to add these e
 | KR |Black Han Sans, BM JUA, CookieRun, 넥슨 메이플스토리, DNF BitBit, NEO 둥근모, One Mobile Pop, SandBox 어그로, TMON 몬소리 Black|
 | JP |DokiDoki font|
 
-**_Subtitle Design_**
 
-<img src="https://github.com/AHMUMAL/mmu_badasemi/blob/main/assets/Subtitle%20Design.png" width="600" height="800" >
-
-**_`text✍️`_** 
-
-Select the font type (see reference) and adjust the size of the font size.
-Select font type (see above) and adjust font size according to mood.(60pt for 1080p, 120pt for 4K)
-You can also use highlighting effects such as bold or italic. 
-You can also change font alignment according to situations.
-
-**_`colorc🎨`_** 
+**_`color🎨`_** 
 
 Change the color of the letter itself.
 
@@ -109,7 +100,6 @@ creates a three-dimensional effect by giving a slight angle and distance.
 It has various effects, such as placing it at the bottom to give a shading effect, or matching it with the border color to make the character shine.
 
 
-
 ## 02-2. Sound/Visual Effect (SFX, VFX)
 
 The `Sound/Visual effect (FX)` can be said to be very important not only increases the fun of videos but also leads viewers to focus. 
@@ -123,10 +113,33 @@ For those of you who are new to video editing, I am sharing the link to the FX o
 
 [Sound Effect Collection](https://www.myinstants.com/ko/index/kr/)
 
-[Sapporo Winter Fes 2025](https://www.youtube.com/watch?v=Wj6hhRcPN0c&list=RDWj6hhRcPN0c&start_radio=1)
 
-**_Transition_** 
+**_Transition_**
+**_(*tip: Cut out silent scenes or sections you don't need)_**
+The conversion effect of a video clip. It makes the video very natural and smooth. From simply turning, blurring, or turning over the screen, to the movie effect, the lens effect, the cross effect, and so on.
+[example](https://www.youtube.com/watch?v=p6L_2c0PThM)
 
-It's the conversion effect of a video clip. It makes the video very natural and smooth. From simply turning, blurring, or turning over the screen, to the movie effect, the lens effect, the cross effect, and so on.
+**_Keyframe_**
+- `3 secs or less:`
+0:00: Vis 0 / 0:45: Vis 100 / end-0:15 (ex: 2:45 ): Vis 100 / end (ex: 3:00): Vis 0
 
+- `Over 3 secs:`
+0:00: Vis 0 / 1:00 Vis 100 / end-0:30 (ex: 3:30 ): Vis 100 / end (ex: 4:00): Vis 0
+
+You can add other effect such as zooming, rotating, animating while vis(visibility) changes.
+If you template them, your work will be accelerate🔥🔥🔥
+When you add short memes like 'Tralalero tralala', You don't need to add these effect.
+
+**_Presets_**
+
+Save the offset for the f/x value you set. Use when you want to add the same effect.
+[export](https://www.youtube.com/watch?v=nDHrgSSLb-I)
+[import](https://www.youtube.com/watch?v=P9TBNyfx4kU)
+
+## ~~00. Editor's Junk box~~
+<a href="\https://www.youtube.com/watch?v=YRidiwGaZHQ&list=RDYRidiwGaZHQ&start_radio=1"><img src="https://image.news.livedoor.com/newsimage/stf/c/3/c36eb_1830_019fda44_62c58397.jpg" width="300" height="400" ></a>
+<a href="\https://www.youtube.com/watch?v=eiIc7jOi-z0&list=RDeiIc7jOi-z0&start_radio=1"><img src="https://pbs.twimg.com/media/GTP9GBLbEAAYnOv?format=jpg&name=4096x4096" width="300" height="400" ></a>
+<img src="https://3e-misaki.com/wp/wp-content/uploads/2021/07/tooth4_0.jpg" width="700" height="462" >
+<a href="https://www.youtube.com/watch?v=J0r_tFWNSJo&list=RDJ0r_tFWNSJo&start_radio=1"><img src="https://i.scdn.co/image/ab67616d0000b2737ee9a7be272fba146de93896" width="400" height="400" /></a><a href="https://www.youtube.com/watch?v=MLpmiywRNzY&t=3s"><img src="https://static.wikitide.net/italianbrainrotwiki/thumb/e/e0/Tralalelo_tralala.png/899px-Tralalelo_tralala.png?20250718174343" width="400" height="400" /></a>
+<a href="https://www.youtube.com/watch?v=13P0n2yyr9I"><img src="https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg" width="800" height="600" ></a>
 ***
