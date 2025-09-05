@@ -136,6 +136,17 @@ Save the offset for the f/x value you set. Use when you want to add the same eff
 [export](https://www.youtube.com/watch?v=nDHrgSSLb-I)
 [import](https://www.youtube.com/watch?v=P9TBNyfx4kU)
 
+## 00. Editor's study tips.
+<a herf="https://youtu.be/STD6YDL8Zj0?si=8XY2qc-CQ7PH7VVH"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGf5iUvPybj2SE_UH9lZzMefHwp0WdJ9d9fL09O-ezjf_NxmXMiu_hbkNuvJLWF9txouXFkSqd-QiDIpxUCVCY2HDfemsRdAEJxHb3Bp4xjdhOFCyikRXAsR5Ex2-8QRmQwQ-hHXDTcN_Z/s1600/eye_ganseihirou_book_man.png">
+Click this image
+according to video
+1. Sleep well. (up 7hours)
+2. Attention to class (important!!)
+3. When you write note, draw some pictures for pay effective study.
+4. Watch a note or listen podcast(like radio or youtube). during exercise time or remain time etc... 
+5. breaking time is very important. (40min study or work, 20min)
+6. ~~listen your favoric music regularly wwwwwwwwww (It relive my stress)~~
+
 ## ~~00. Editor's Junk box~~
 <a href="https://www.youtube.com/watch?v=13P0n2yyr9I"><img src="https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg" width="600" height="800"></a>
 <a href="https://youtu.be/Ux-iYj7pQr0?si=fsYmXBfjAz24eTNR"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgD2pudjK_PstOBSfPXXHP9ket-L3BAWizw&s" width="300" height="400"></a>
