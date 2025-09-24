@@ -156,7 +156,6 @@ according to video
 <a href="https://www.youtube.com/watch?v=OUHVRWdVQCI"><img src="https://i.redd.it/why-do-russians-make-their-tanks-jump-doesnt-it-damage-the-v0-7frgeq07kxzb1.jpg?width=5184&format=pjpg&auto=webp&s=7035d96807ea3893626f0aefaa87af92f499ef4f" width="600" height="800"></a>
 **SLAV**
 <a href="https://youtu.be/Ux-iYj7pQr0?si=fsYmXBfjAz24eTNR"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgD2pudjK_PstOBSfPXXHP9ket-L3BAWizw&s" width="300" height="400"></a>
-**KOREAN LAUGH GUY**
 <a href="https://www.youtube.com/watch?v=ES2EMAUlspM"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paragliding_1350361.jpg/250px-Paragliding_1350361.jpg" width="300" height="400"></a>
 <a href="https://www.youtube.com/watch?v=UmmSM9y82EI"><img src="https://www.titan-net.co.jp/wp-content/uploads/eaff8e050e72a5f1c1781a20b2aeec43.jpg" width="300" height="400"></a>
 <a href="https://www.youtube.com/watch?v=TR4QX8bz9Fw"><img src="https://miro.medium.com/v2/1*Gyg6Xx7eUfYXv1FDADrVLQ.jpeg" width="300" height="400"></a>
