@@ -1,6 +1,6 @@
-# VIDEO EDIT MANUAL @mmu_badasemi
+# VIDEO EDIT MANUAL for @mmu_badasemi
 <a href="https://www.youtube.com/watch?v=57j_HETJUHg"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773" width="800" height="600" ></a>
-> **Ver 250831.01** 
+> **Ver 250924.01** 
 
 > **Made by WOOJIN(우진,うじん)**
 > 
@@ -149,6 +149,7 @@ according to video
 
 ## ~~00. Editor's Junk box~~
 <a href="https://www.youtube.com/watch?v=13P0n2yyr9I"><img src="https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg" width="600" height="800"></a>
+<a href="https://www.youtube.com/watch?v=OUHVRWdVQCI"><img src="https://i.redd.it/why-do-russians-make-their-tanks-jump-doesnt-it-damage-the-v0-7frgeq07kxzb1.jpg?width=5184&format=pjpg&auto=webp&s=7035d96807ea3893626f0aefaa87af92f499ef4f" width="600" height="800"></a>
 <a href="https://youtu.be/Ux-iYj7pQr0?si=fsYmXBfjAz24eTNR"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgD2pudjK_PstOBSfPXXHP9ket-L3BAWizw&s" width="300" height="400"></a>
 <a href="https://www.youtube.com/watch?v=YRidiwGaZHQ"><img src="https://image.news.livedoor.com/newsimage/stf/c/3/c36eb_1830_019fda44_62c58397.jpg" width="300" height="400"></a>
 <a href="https://www.youtube.com/watch?v=eiIc7jOi-z0&list=RDeiIc7jOi-z0&start_radio=1"><img src="https://pbs.twimg.com/media/GTP9GBLbEAAYnOv?format=jpg&name=4096x4096" width="300" height="400"></a>
